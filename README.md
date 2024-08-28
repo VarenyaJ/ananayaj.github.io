@@ -8,7 +8,7 @@ A somewhat responsive personal portfolio website, which should work for all devi
 
 ## What is this
 
-A chimera of my own making from codewithsadee's intelligent HTML skeletal structure - inspired at the stroke of midnight on a boiling August night in the middle of the week
+A chimera of my own making from [@codewithsadee](https://github.com/codewithsadee/vcard-personal-portfolio)'s intelligent HTML skeletal structure - inspired at the stroke of midnight on a boiling August night in the middle of the week
 
 ## Why
 
@@ -17,7 +17,7 @@ I spent a year trying to learn HTML, CSS, and JavaScript, and all I really learn
 But I managed to make my own website to hold all my "schtuff", which in my humble opinion is looking pretty darn good.
 While I'm still waiting for my family to actually acknowledge the time I spent and the hard work I did, I've been conscripted to make my little brother a website as well... because apparently nobody can be bothered to open wix.com or just ask me nicely...
 
-So thank you @codewithsadee for making these templates, and please excuse me while I butcher the hell out of your sculpted HTML
+So thank you [@codewithsadee](https://github.com/codewithsadee/) for making these templates, and please excuse me while I butcher the hell out of your sculpted HTML
 
 As always, retrieved using git, edited in vim/neovim, and uploaded from a Linux machine
 (BTW I use Arch)
@@ -29,4 +29,5 @@ If you want to contact me you can reach me at [Github](https://github.com/Vareny
 ## License
 
 MIT
+
 
