@@ -2,23 +2,20 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Ananaya Jain
+Ananaya Jain
+Student
 
 Show Contacts
 
 Email
-richard@example.com
+ananaya2029@gmail.com
 
 Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
+201-390-4471
 
 Location
-Sacramento, California, USA
+New York, New York, USA
 
 # navbar
 
@@ -32,60 +29,50 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+I am a student at Bergen County Academies, passionate about finance, economics, and technology. I have demonstrated leadership through my roles in various clubs and organizations, aiming to drive innovation and positive change in my community and beyond. I enjoy engaging in extracurricular activities like DECA, Model United Nations, and the South Asian Club.
 
 ## service
 
-What i'm doing
+What I'm doing
 
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+alt = project manager icon
+Project Management
+Leading various initiatives and teams, specializing in organizing and optimizing project workflows for successful outcomes.
 
-alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+alt = finance icon
+Finance and Investment
+Engaging in finance-related activities and education, including co-founding an Investment Analysis Group to teach students about financial literacy and investment strategies.
 
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+alt = leadership icon
+Leadership and Organization
+Holding leadership positions in several student organizations, driving efforts in cultural awareness, competitive events, and community service.
 
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
-
+alt = community icon
+Community Service
+Actively participating in community service, organizing events, and leading fundraising efforts to support various causes.
 
 ## testimonials
 
 Testimonials
 
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Amit Khandhar
+Amit Khandhar
+Ananaya provided excellent leadership in the Provita Pharmaceuticals project. Their management skills and attention to detail were instrumental in our success.
 
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
+alt = Tejal Majithia
+Tejal Majithia
+Ananaya's work on the Investment Analysis Group was outstanding. They showed great initiative and were a motivating leader for the team.
 
 ## clients
 
 Clients
 
-alt = client logo
-
-
+alt = Client Logo 1
+alt = Client Logo 2
+alt = Client Logo 3
+alt = Client Logo 4
+alt = Client Logo 5
+alt = Client Logo 6
 
 # resume
 
@@ -93,139 +80,83 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+Bergen County Academies
+Class of 2025
+Student at Bergen County Academies with a strong academic record and a diverse range of advanced coursework, including AP and IB classes.
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Provita Pharmaceuticals
+Project Manager & COO
+Led market competition analyses, planned product life cycles, and developed marketing strategies for innovative medical products.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Investment Analysis Group
+Co-Founder & President
+Founded and led a student-run group focusing on financial literacy and investment strategies, organizing school-wide investment competitions.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+South Asian Club
+Co-President
+Organized cultural events and awareness campaigns to represent and advocate for South Asian students in the school community.
+
+Opengate Capital
+Finance Team Intern
+Developed an understanding of private equity, created financial reports, and communicated with investment partners.
 
 My skills
 
-Web design
+Project Management
 80%
-Graphic design
-70%
-Branding
+Finance and Investment
+85%
+Leadership
 90%
-WordPress
-50%
-
-
+Community Service
+75%
 
 # portfolio
 
 Portfolio
 
 All
-Web design
-Applications
-Web development
+Leadership
+Community Service
+Finance
+Technology
 
 Select category
 All
-Web design
-Applications
-Web development
-
-alt = finance
+Leadership
+Community Service
 Finance
-Web development
+Technology
 
-alt = orizon
-Orizon
-Web development
+alt = provita
+Provita Pharmaceuticals
+Leadership
 
-alt = fundo
-Fundo
-Web design
+alt = investment group
+Investment Analysis Group
+Finance
 
-alt = brawlhalla
-Brawlhalla
-Applications
+alt = south asian club
+South Asian Club
+Community Service
 
-alt = dsm.
-DSM.
-Web design
-
-alt = metaspark
-MetaSpark
-Web design
-
-alt = summary
-Summary
-Web development
-
-alt = task manager
-Task Manager
-Applications
-
-alt = arrival
-Arrival
-Web development
-
-
+alt = model un
+Model United Nations
+Leadership
 
 # blog
 
 Blog
 
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+alt = innovate-svgrepo-com
+Innovations in Student Leadership
+An exploration of the ways students can drive change and lead initiatives effectively.
 
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
-
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
-
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
-
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
-
-
+alt = stocks-graphic-on-laptop-monitor-svgrepo-com
+The Future of Investment Analysis for Students
+An overview of how high school students can get involved in investment analysis and what it can teach them.
 
 # contact
 
@@ -238,3 +169,4 @@ Email address
 Your Message
 
 Send Message
+

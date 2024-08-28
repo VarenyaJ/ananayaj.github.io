@@ -1,44 +1,32 @@
-# vCard - Personal portfolio
+# Calling All Autobots
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+![GitHub repo size](https://img.shields.io/github/repo-size/VarenyaJ/ananayaj.github.io)
+![GitHub stars](https://img.shields.io/github/stars/VarenyaJ/ananayaj.github.io?style=social)
+![GitHub forks](https://img.shields.io/github/forks/VarenyaJ/ananayaj.github.io?style=social)
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+A somewhat responsive personal portfolio website, which should work for all devices, built using HTML, CSS, JavaScript, and of course - Varenya Jain classics - 3am Carpal Tunnel Syndrome and Insomniac Humor.
 
-## Demo
+## What is this
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+A chimera of my own making from codewithsadee's intelligent HTML skeletal structure - inspired at the stroke of midnight on a boiling August night in the middle of the week
 
-## Prerequisites
+## Why
 
-Before you begin, ensure you have met the following requirements:
+I spent a year trying to learn HTML, CSS, and JavaScript, and all I really learned was how to center a div and take the best parts of someone else's MIT licensed code and break it. That's what I get for wiring my brain with Electrical Engineering at UIUC.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+But I managed to make my own website to hold all my "schtuff", which in my humble opinion is looking pretty darn good.
+While I'm still waiting for my family to actually acknowledge the time I spent and the hard work I did, I've been conscripted to make my little brother a website as well... because apparently nobody can be bothered to open wix.com or just ask me nicely...
 
-## Installing vCard
+So thank you @codewithsadee for making these templates, and please excuse me while I butcher the hell out of your sculpted HTML
 
-To install **vCard**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+As always, retrieved using git, edited in vim/neovim, and uploaded from a Linux machine
+(BTW I use Arch)
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [Github](https://github.com/VarenyaJ/), [LinkedIn](https://www.linkedin.com/in/varenyaj/), or snail mail.
 
 ## License
 
 MIT
+

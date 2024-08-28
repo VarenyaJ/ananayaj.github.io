@@ -1,39 +1,45 @@
 'use strict';
 
+/*-----------------------------------*\
+  # JavaScript for Ananaya Jain's Personal Portfolio
+  This file includes scripts for interactive elements like the sidebar, portfolio filters, and more
+\*-----------------------------------*/
 
 
-// element toggle function
-const elementToggleFunc = function (elem) { elem.classList.toggle("active"); }
+// Element toggle function to switch classes (e.g., add/remove 'active')
+const elementToggleFunc = function (elem) { 
+  elem.classList.toggle("active"); 
+}
 
 
-
-// sidebar variables
+// Sidebar variables for handling sidebar toggle functionality
 const sidebar = document.querySelector("[data-sidebar]");
 const sidebarBtn = document.querySelector("[data-sidebar-btn]");
 
-// sidebar toggle functionality for mobile
-sidebarBtn.addEventListener("click", function () { elementToggleFunc(sidebar); });
+// Add click event listener to the sidebar button to toggle the sidebar
+sidebarBtn.addEventListener("click", function () { 
+  elementToggleFunc(sidebar); 
+});
 
 
-
-// testimonials variables
+// Testimonials variables for modal functionality
 const testimonialsItem = document.querySelectorAll("[data-testimonials-item]");
 const modalContainer = document.querySelector("[data-modal-container]");
 const modalCloseBtn = document.querySelector("[data-modal-close-btn]");
 const overlay = document.querySelector("[data-overlay]");
 
-// modal variable
+// Variables for the modal content
 const modalImg = document.querySelector("[data-modal-img]");
 const modalTitle = document.querySelector("[data-modal-title]");
 const modalText = document.querySelector("[data-modal-text]");
 
-// modal toggle function
+// Function to toggle the modal visibility
 const testimonialsModalFunc = function () {
   modalContainer.classList.toggle("active");
   overlay.classList.toggle("active");
 }
 
-// add click event to all modal items
+// Add click events to all testimonials items to open the modal with relevant content
 for (let i = 0; i < testimonialsItem.length; i++) {
 
   testimonialsItem[i].addEventListener("click", function () {
@@ -49,21 +55,23 @@ for (let i = 0; i < testimonialsItem.length; i++) {
 
 }
 
-// add click event to modal close button
+// Add click events to close the modal
 modalCloseBtn.addEventListener("click", testimonialsModalFunc);
 overlay.addEventListener("click", testimonialsModalFunc);
 
 
-
-// custom select variables
+// Portfolio filtering variables and functionality
 const select = document.querySelector("[data-select]");
 const selectItems = document.querySelectorAll("[data-select-item]");
 const selectValue = document.querySelector("[data-selecct-value]");
 const filterBtn = document.querySelectorAll("[data-filter-btn]");
 
-select.addEventListener("click", function () { elementToggleFunc(this); });
+// Toggle the select dropdown
+select.addEventListener("click", function () { 
+  elementToggleFunc(this); 
+});
 
-// add event in all select items
+// Add event to all select items to filter portfolio based on selected category
 for (let i = 0; i < selectItems.length; i++) {
   selectItems[i].addEventListener("click", function () {
 
@@ -75,9 +83,10 @@ for (let i = 0; i < selectItems.length; i++) {
   });
 }
 
-// filter variables
+// Portfolio items to be filtered
 const filterItems = document.querySelectorAll("[data-filter-item]");
 
+// Function to show/hide portfolio items based on the selected filter
 const filterFunc = function (selectedValue) {
 
   for (let i = 0; i < filterItems.length; i++) {
@@ -94,7 +103,7 @@ const filterFunc = function (selectedValue) {
 
 }
 
-// add event in all filter button items for large screen
+// Add event listeners to filter buttons for large screen filtering
 let lastClickedBtn = filterBtn[0];
 
 for (let i = 0; i < filterBtn.length; i++) {
@@ -114,17 +123,16 @@ for (let i = 0; i < filterBtn.length; i++) {
 }
 
 
-
-// contact form variables
+// Contact form validation variables and functionality
 const form = document.querySelector("[data-form]");
 const formInputs = document.querySelectorAll("[data-form-input]");
 const formBtn = document.querySelector("[data-form-btn]");
 
-// add event to all form input field
+// Enable or disable the form submit button based on form validation
 for (let i = 0; i < formInputs.length; i++) {
   formInputs[i].addEventListener("input", function () {
 
-    // check form validation
+    // Check if the form is valid
     if (form.checkValidity()) {
       formBtn.removeAttribute("disabled");
     } else {
@@ -135,12 +143,11 @@ for (let i = 0; i < formInputs.length; i++) {
 }
 
 
-
-// page navigation variables
+// Page navigation variables and functionality
 const navigationLinks = document.querySelectorAll("[data-nav-link]");
 const pages = document.querySelectorAll("[data-page]");
 
-// add event to all nav link
+// Add click events to navigation links to switch between different sections
 for (let i = 0; i < navigationLinks.length; i++) {
   navigationLinks[i].addEventListener("click", function () {
 
@@ -157,3 +164,4 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+
